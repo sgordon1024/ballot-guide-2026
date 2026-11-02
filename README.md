@@ -10,6 +10,10 @@ Choose **Copy share link with choices** to share a read-only snapshot. Anyone wi
 
 Snapshot data is encoded, not encrypted, in the URL fragment. This static app has no vote database, analytics, or external scripts. Selections are not committed to this repository or transmitted to a server by the app. GitHub provides the site hosting. This is a planning aid, not a cast ballot.
 
+## Factual labels
+
+The optional label controls annotate documented party affiliations and Trump connections without hiding candidates or selecting votes. Labels have equal visual treatment. Nonpartisan contests and missing verified records do not establish political neutrality. Label preferences are separate from saved votes and shared snapshots.
+
 ## Deployment
 
 GitHub Pages serves the root of the `main` branch. `index.html` is self-contained; `.nojekyll` disables Jekyll processing. No build step or credentials are required in the source.
