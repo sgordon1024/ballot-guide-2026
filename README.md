@@ -6,7 +6,7 @@ A nonpartisan, source-linked reference and personal checklist for the November 3
 
 Open https://sgordon1024.github.io/ballot-guide-2026/ and mark your choices. Nothing is preselected. Selections save automatically in this browser's local storage. Private browsing, clearing site data, or changing browsers/devices can remove or separate your choices.
 
-Choose **Copy share link with choices** to share a read-only snapshot. Anyone with that link can read and forward those choices. Later edits do not update an existing link. A plain site link does not include selections. Recipients' own saved choices remain separate unless they explicitly confirm copying the snapshot into their checklist.
+Choose **Copy share link with choices** to share a read-only snapshot. Anyone with that link can read and forward those choices. Later edits do not update an existing link. A plain site link does not include selections. Recipients' own saved choices remain separate unless they choose **Continue answering from these choices**. If different answers already exist in that browser, replacement requires confirmation; Cancel preserves the saved answers. Continuing makes an editable personal copy. Later edits require a new share link.
 
 Snapshot data is encoded, not encrypted, in the URL fragment. This static app has no vote database, analytics, or external scripts. Selections are not committed to this repository or transmitted to a server by the app. GitHub provides the site hosting. This is a planning aid, not a cast ballot.
 
